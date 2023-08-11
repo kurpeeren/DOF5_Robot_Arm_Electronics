@@ -50,7 +50,7 @@ The PCB for this project has been designed as a single-layer board and is intend
 
 The planned material list for the project is shown in the provided BOM (Bill of Materials) list below. Quantities and packages of the materials are specified.
 
-You can find the path to the BOM list in .csv format by following this link: [BOM List CSV](Hardware/BOM_PCB_Trex_Staj v2.0_2022-07-13.csv)
+You can find the path to the BOM list in .csv format by following this link: (Hardware/BOM_PCB_Trex_Staj v2.0_2022-07-13.csv)
 
 ![Devre Kartı Tasarımı](Images/bomlist.png)
 
