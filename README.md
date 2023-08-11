@@ -56,7 +56,8 @@ Devre kartının üst katmanındaki SMD bileşenlerinin dizilimi.
 
 Projenin son halini temsil eden görüntü.
 
-![Projenin Son Hali](Images/final_result.png)
+<img src="Images/final_result.png" alt="Resmin Açıklaması" style="transform: rotate(-90deg);">
+
 
 ### 9. Ön Çapraz Görünüm
 
