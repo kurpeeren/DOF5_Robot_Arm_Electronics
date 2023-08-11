@@ -54,70 +54,72 @@ You can find the path to the BOM list in .csv format by following this link: (Ha
 
 ![Devre Kartı Tasarımı](Images/bomlist.png)
 
-### 4. Devre Kartının Asit Öncesi Durumu
+### 4. Pre-Etching State of the PCB
 
-Devre kartının asit işlemine girmeden önceki durumu, tasarımın prototipe dönüştürülmesi aşamasını temsil eder.
+At this stage, the pre-etching state of the PCB is observed before undergoing the acid process. This state represents the prototype phase of the design.
+
+Commonly used chemicals during the acid process include hydrochloric acid (HCl), hydrogen peroxide (H₂O₂), and cupric chloride (CuCl₂). These chemicals are utilized for cleaning the copper surface and preparing it for soldering.
+
+Equations for the acid process:
+HCl + H₂O₂ → CuCl₂ + H₂O
+Hydrochloric Acid + Hydrogen Peroxide → Cupric Chloride + Water
+
 
 <img src="Images/circuit_before_acid.png" alt="Devre Kartının Asit Öncesi Durumu" width="40%" height="40%" >
 
-### 5. Devre Kartının Asit İçerisindeki Durumu
+### 5. State of the PCB During Etching
 
-Devre kartının asit içerisindeki durumu, üretim aşamasının bir parçasını yansıtır.
+At this stage, the PCB undergoes the etching process, representing a part of the manufacturing phase.
+
 
 <img src="Images/circuit_in_acid.png" alt="Devre Kartının Asit İçerisindeki Durumu" width="40%" height="40%" >
 
-### 6. Devre Kartının Asit Sonrası Durumu
+### 6. State of the PCB After Etching
 
-Devre kartının asit sonrası durumu, üretim sürecinin bir aşamasını gösterir.
+At this stage, the condition of the PCB after the etching process is depicted, representing a part of the manufacturing process.
 
 <img src="Images/circuit_after_acid.png" alt="Devre Kartının Asit Sonrası Durumu" width="40%" height="40%" >
 
-### 7. SMD Bileşen Dizilimi
+### 7. SMD Component Placement
 
-Devre kartının üst katmanındaki SMD bileşenlerinin dizilimi.
+This section illustrates the arrangement of Surface Mount Device (SMD) components on the top layer of the PCB.
 
 <img src="Images/circuit_smd_placement.png" alt="SMD Bileşen Dizilimi" width="40%" height="40%" >
 
-### 8. Üst Katman Yolları
+### 8. Top Layer Traces
 
-PCB'nin üst katmanında yer alan uzay yolu adı verilen kabloların görünümü.
+This section provides a visual representation of the traces, also known as "traces," on the top layer of the PCB.
 
 <img src="Images/top_layer_traces.png" alt="Üst Katman Yolları" width="40%" height="40%" >
 
-### 9. Devre Kartının Çalışma Halindeki Görünümü
+### 9. Operational View of the PCB
 
-Devre kartının çalışma halindeki görüntüsü, projenin işlevselliğini yansıtır.
+This section showcases the operational view of the PCB, reflecting the functionality of the project.
 
 <img src="Images/circuit_operational_view.png" alt="Devre Kartının Çalışma Halindeki Görünümü" width="40%" height="40%" >
 
-### 10. Başka Bir Çalışma Görünümü
-
-Alternatif bir çalışma görünümü, projenin detaylarına daha fazla bakış sağlar.
-
 <img src="Images/circuit_operational_view2.png" alt="Başka Bir Çalışma Görünümü" width="40%" height="40%" >
 
-### 11. Projenin Son Hali
+### 10. Final State of the Project
 
-Projenin son halini temsil eden görüntü.
+This section features an image representing the final state of the project.
 
 <img src="Images/final_result.png" alt="Resmin Açıklaması" width="40%" height="40%" >
 
 
-### 12. Ön Çapraz Görünüm
+### 11. Front Oblique View
 
-Robotun ön çapraz görünümünü yansıtan resim.
+In this section, an image depicting the front oblique view of the robot is provided.
 
-<img src="Images/front_oblique_view.png" alt="Ön Çapraz Görünüm" width="40%" height="40%" >
+<img src="Images/front_oblique_view.png" alt="Front Oblique View" width="40%" height="40%" >
 
-### 13. Ön Görünüm
+### 12. Front View
 
-Robotun önden görünümünü yansıtan resim.
+This section contains an image reflecting the front view of the robot.
 
-<img src="Images/front_view.png" alt="Ön Görünüm" width="40%" height="40%" >
+<img src="Images/front_view.png" alt="Front View" width="40%" height="40%" >
 
+## Contact and Contributions
 
+Any contributions and feedback to the project are welcomed with great enthusiasm. Please don't hesitate to open an "issue" or reach out to me for any questions or contributions. Our project aims to contribute to the advancement of industrial automation, and any form of support and collaboration is highly valued.
 
-
-## İletişim ve Katkılar
-
-Projeye her türlü katkı ve geri bildirim memnuniyetle karşılanmaktadır. Sorularınız veya katkılarınız için lütfen bir "issue" açmaktan veya bizimle iletişime geçmekten çekinmeyin. Projemiz, endüstriyel otomasyonun geliştirilmesine katkıda bulunmayı amaçlar ve her türlü destek ve işbirliği değerlidir.
