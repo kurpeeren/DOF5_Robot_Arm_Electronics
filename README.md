@@ -6,7 +6,7 @@
 
 Bu proje, endüstriyel ortamlarda kullanılmak üzere tasarlanmış bir 3D robot kolunun kontrolünü sağlamayı amaçlayan kapsamlı bir projedir. Proje kapsamında, robot kolunun hareketini ve işlevselliğini kontrol etmek üzere bir devre kartı tasarlanmış ve üretilmiştir. Aynı zamanda 3D baskı teknolojisi kullanılarak robot kolunun fiziksel prototipi oluşturulmuştur.
 
-![Robot](Images/robot.png)
+<img src="Images/robot.png" alt="Robot" width="40%" height="40%" >
 
 ## Proje Aşamaları
 
@@ -20,7 +20,7 @@ Projenin ilk aşaması, endüstriyel standartlara uygun giriş ve çıkış port
 
 Devre kartının asit işlemine girmeden önceki durumu, tasarımın prototipe dönüştürülmesi aşamasını temsil eder.
 
-![Devre Kartının Asit Öncesi Durumu](Images/circuit_before_acid.png)
+<img src="Images/circuit_before_acid.png" alt="Devre Kartının Asit Öncesi Durumu" width="40%" height="40%" >
 
 ### 3. Devre Kartının Asit İçerisindeki Durumu
 
@@ -32,7 +32,7 @@ Devre kartının asit içerisindeki durumu, üretim aşamasının bir parçasın
 
 Devre kartının asit sonrası durumu, üretim sürecinin bir aşamasını gösterir.
 
-![Devre Kartının Asit Sonrası Durumu](Images/circuit_after_acid.png)
+<img src="Images/circuit_after_acid.png" alt="Devre Kartının Asit Sonrası Durumu" width="40%" height="40%" >
 
 ### 5. Devre Kartının Çalışma Halindeki Görünümü
 
@@ -56,7 +56,7 @@ Devre kartının üst katmanındaki SMD bileşenlerinin dizilimi.
 
 Projenin son halini temsil eden görüntü.
 
-<img src="Images/final_result.png" alt="Resmin Açıklaması" style="transform: rotate(-90deg);">
+<img src="Images/final_result.png" alt="Resmin Açıklaması" width="40%" height="40%" style="transform: rotate(-90deg);">
 
 
 ### 9. Ön Çapraz Görünüm
