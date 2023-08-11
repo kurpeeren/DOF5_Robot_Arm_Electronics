@@ -6,7 +6,7 @@
 
 Bu proje, endüstriyel ortamlarda kullanılmak üzere tasarlanmış bir 3D robot kolunun kontrolünü sağlamayı amaçlayan kapsamlı bir projedir. Proje kapsamında, robot kolunun hareketini ve işlevselliğini kontrol etmek üzere bir devre kartı tasarlanmış ve üretilmiştir. Aynı zamanda 3D baskı teknolojisi kullanılarak robot kolunun fiziksel prototipi oluşturulmuştur.
 
-![Robot](robot.png)
+![Robot](Images/robot.png)
 
 ## Proje Aşamaları
 
