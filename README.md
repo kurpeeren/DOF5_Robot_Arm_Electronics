@@ -1,6 +1,6 @@
 
-<!-- <p class="open-website" > Industrial 3D Robot Arm Control Project </p> -->
-
+<!-- <p class="open-website" > 3D Robot Arm Control Project </p> -->
+<!-- <p class="date-website" > 22.02.2023 </p> -->
 # DOF5_Robot_Arm_Electronics
  This project encompasses the design of a 5-degree-of-freedom (DOF) robot arm, fabricated using a 3D printer, along with the construction of its circuit board.
 # Industrial 3D Robot Arm Control Project
