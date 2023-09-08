@@ -15,7 +15,7 @@ The main control unit on the board is an electronic component engineered to over
 
 The project's focal point revolves around a control board equipped with industrial-grade input and output ports. This board serves as an intermediary, coordinating and controlling the movements of the 3D robot arm. The project aims to contribute to the development and optimization of industrial automation processes.
 
-<img src="Images/robot.png" alt="Robot" width="40%" height="40%" >
+<img src="images/robot.png" alt="Robot" width="40%" height="40%" >
 
 ## Project Phases
 
@@ -37,7 +37,7 @@ The project's focal point revolves around a control board equipped with industri
 
 The design and application areas of robot arms are extensive and diverse. They find use in industrial automation, medical surgery, space exploration, automotive industry, service sector, and many other fields.
 
-![Bilgi](Images/info.png)
+![Bilgi](images/info.png)
 
 ### 2. Circuit Design
 
@@ -46,7 +46,7 @@ The design and application areas of robot arms are extensive and diverse. They f
 The PCB for this project has been designed as a single-layer board and is intended to be produced using the toner transfer method. At this stage, the PCB and schematic drawings can be found in the "hardware" section. Additionally, you can visit the project's EasyEDA page for more details: [3D Robot Arm Electronics - EasyEDA](https://oshwlab.com/aekeren/trex_staj)
 
 
-![PCB İlk Katman Görünümü](Images/pcb_layer1.png)
+![PCB İlk Katman Görünümü](images/pcb_layer1.png)
 
 ### 3. Bill of Materials (BOM)
 
@@ -54,7 +54,7 @@ The planned material list for the project is shown in the provided BOM (Bill of 
 
 You can find the path to the BOM list in .csv format by following this link: (Hardware/BOM_PCB_Trex_Staj v2.0_2022-07-13.csv)
 
-![Devre Kartı Tasarımı](Images/bomlist.png)
+![Devre Kartı Tasarımı](images/bomlist.png)
 
 ### 4. Pre-Etching State of the PCB
 
@@ -67,59 +67,59 @@ HCl + H₂O₂ → CuCl₂ + H₂O
 Hydrochloric Acid + Hydrogen Peroxide → Cupric Chloride + Water
 
 
-<img src="Images/circuit_before_acid.png" alt="Devre Kartının Asit Öncesi Durumu" width="40%" height="40%" >
+<img src="images/circuit_before_acid.png" alt="Devre Kartının Asit Öncesi Durumu" width="40%" height="40%" >
 
 ### 5. State of the PCB During Etching
 
 At this stage, the PCB undergoes the etching process, representing a part of the manufacturing phase.
 
 
-<img src="Images/circuit_in_acid.png" alt="Devre Kartının Asit İçerisindeki Durumu" width="40%" height="40%" >
+<img src="images/circuit_in_acid.png" alt="Devre Kartının Asit İçerisindeki Durumu" width="40%" height="40%" >
 
 ### 6. State of the PCB After Etching
 
 At this stage, the condition of the PCB after the etching process is depicted, representing a part of the manufacturing process.
 
-<img src="Images/circuit_after_acid.png" alt="Devre Kartının Asit Sonrası Durumu" width="40%" height="40%" >
+<img src="images/circuit_after_acid.png" alt="Devre Kartının Asit Sonrası Durumu" width="40%" height="40%" >
 
 ### 7. SMD Component Placement
 
 This section illustrates the arrangement of Surface Mount Device (SMD) components on the top layer of the PCB.
 
-<img src="Images/circuit_smd_placement.png" alt="SMD Bileşen Dizilimi" width="40%" height="40%" >
+<img src="images/circuit_smd_placement.png" alt="SMD Bileşen Dizilimi" width="40%" height="40%" >
 
 ### 8. Top Layer Traces
 
 This section provides a visual representation of the traces, also known as "traces," on the top layer of the PCB.
 
-<img src="Images/top_layer_traces.png" alt="Üst Katman Yolları" width="40%" height="40%" >
+<img src="images/top_layer_traces.png" alt="Üst Katman Yolları" width="40%" height="40%" >
 
 ### 9. Operational View of the PCB
 
 This section showcases the operational view of the PCB, reflecting the functionality of the project.
 
-<img src="Images/circuit_operational_view.png" alt="Devre Kartının Çalışma Halindeki Görünümü" width="40%" height="40%" >
+<img src="images/circuit_operational_view.png" alt="Devre Kartının Çalışma Halindeki Görünümü" width="40%" height="40%" >
 
-<img src="Images/circuit_operational_view2.png" alt="Başka Bir Çalışma Görünümü" width="40%" height="40%" >
+<img src="images/circuit_operational_view2.png" alt="Başka Bir Çalışma Görünümü" width="40%" height="40%" >
 
 ### 10. Final State of the Project
 
 This section features an image representing the final state of the project.
 
-<img src="Images/main.png" alt="Resmin Açıklaması" width="100%" height="100%" >
+<img src="images/main.png" alt="Resmin Açıklaması" width="100%" height="100%" >
 
 
 ### 11. Front Oblique View
 
 In this section, an image depicting the front oblique view of the robot is provided.
 
-<img src="Images/front_oblique_view.png" alt="Front Oblique View" width="40%" height="40%" >
+<img src="images/front_oblique_view.png" alt="Front Oblique View" width="40%" height="40%" >
 
 ### 12. Front View
 
 This section contains an image reflecting the front view of the robot.
 
-<img src="Images/front_view.png" alt="Front View" width="40%" height="40%" >
+<img src="images/front_view.png" alt="Front View" width="40%" height="40%" >
 
 ## Contact and Contributions
 
