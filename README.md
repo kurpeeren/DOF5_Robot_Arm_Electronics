@@ -106,7 +106,7 @@ This section showcases the operational view of the PCB, reflecting the functiona
 
 This section features an image representing the final state of the project.
 
-<img src="Images/project_final_result.png" alt="Resmin Açıklaması" width="100%" height="100%" >
+<img src="Images/main.png" alt="Resmin Açıklaması" width="100%" height="100%" >
 
 
 ### 11. Front Oblique View
